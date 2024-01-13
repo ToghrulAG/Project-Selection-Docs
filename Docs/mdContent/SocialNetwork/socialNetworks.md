@@ -1,73 +1,61 @@
-<<<<<<< HEAD
-<h1>Ideya qaynaqları</h1>
-İlk öncə bu proyekt ideyası ecommerce və blog saytı olan aşağıdakı web saytlardan götürülüb.
+<h1>SOCIAL NETWORKS</h1>   
+<h2>Facebook  <a href="facebook.com">Click</a></h2>
 
-https://www.atlet.az/
+![facebookLogo](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/08c6b4a1-da1f-477a-95f5-88c2b35a4493)
 
-https://proteinshop.az/
 
-<h1>Proyektin Məqsədi</h1>
-Qurulacaq pet-proyekt bodybuilding tematikasına aid olacaq. Saytda orta səviyyədə bir ecommerce yer alacaq, 
-hansıki idman qidaları : gainer, whey, bcaa, creatine, preworkoutlar və s məhsulların online satışı həyata keçiriləcək.
-Proyekt local bazar üçün nəzərdə tutulub və tematikaya aid olan bir sirkət açılıb və hər hansı bir ecommerce saytı tələb edərsə bu zaman proyekt tutarlı olar.
-<hr>
-<h1>Ecommerce</h1>
+<h3>Mənfi Cəhətləri </h3>
 
-<p>Ilk öncə Ecommerce-in Uİ hissəsi olaraq navigation hissəsində məhsulların növünə görə seçim şansı aşağıdakı kimi olacaq.</p>
-<img src="./assets/nav.png"></img>
+![warning](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/69aae9b3-0a79-4cff-9a2b-2fee5147b633)
 <hr>
 
-Həmçinin brend üzrə seçim şansıda mövcuddur.
+<p> <h1>1.</h1>Sağ tərəfdəki menu buttonunu açdığımızda, bəzi elementlərin dublikatını sol tərəfdəki sidebar-da görə bilirik.
+Dublikatları aradan qaldırıb, sidebar-da olan elementləri menyuya əlavə etsək və sidebar-ı ləğv etsək 
+həm dublikat məsələsi həll olunar həmdəki, content üçün daha çox yer qalar. 
+</p>
 
-
-<img src="./assets/chooseBrand.png"></img>
+![facebook1-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e93d3a8d-b478-4980-b5e7-6a65296fca09)
 <hr>
 
-Screendə göründüyüz kimi, məhsul axtarışı və məhsulu səbətə əlavə etmə kimi özəlliklər var.
+<p> <h1>2.</h1>
+  Yenə eyni məsələdir. Ətrafı qırmızı boyanmış interfeysi yuxarıda bir icon yaradıb onun daxılinə yerləşdirə bilərdik,
+content zonasının daha da böyük olması üçün.
+</p>
 
-
-
-
-https://github.com/ToghrulAG/Final-Project/assets/86961334/875161b2-594f-4cf0-8d24-6d2d2a46e1e6
-
-
-
-Səbətə yerləşdirdiyimiz məhsulları satın atmaq istədikdə, məhsulları mağazadan götürmə yolu ile və yaxud kuryer məhsulları çatdırdıqdan sonra qapıda ödəmə yolu ilə əldə etmə şansımız var.
-
+![facebook2-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/31857c0a-b500-49c0-8b68-1404d033a29b)
 <hr>
 
+<p> <h1>3.</h1>
+Facebookda Marketplace funksiyası var hansıki, kiçik bir elan saytının interfeysini xatırladır. 
+Girib bir iki elanı yoxlayandan sonra göre bilərik ki, bu funksiya heç aktiv olaraq istifadə olunmur və nəticədə 
+boş yerə serverin resurslarından istifadə edir. Çunki insanlar köhnə üsula öyrəşiblər 
+"satılan məhsula uyğun qrupda post paylaşmaq" və bu üsul insanlar üçün daha rahatdır deyə MP istifadə olunmur düşünürəm.
+ Əgər xarici ölkələrdə bu funksiya aktiv olaraq istifadə olunursa, o zaman
+mənfi bir cəhət kimi qeyd edə bilmərəm.
+</p>
 
-Droplistimiz olacaq. Hansıki idman qidalarından savayı satışda olan məhsullar təqdim olunacaq. (idman geyimləri, trenajor alətləri, aksesuarlar və s)
-
-
-https://github.com/ToghrulAG/Final-Project/assets/86961334/00d371fc-4ecb-4472-81b3-8757ea529117
+![facebook3-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/40057c5a-28f8-495b-9de8-e2bddf2a0809)
 <hr>
 
-<h1>Blog</h1>
+<h3>Müsbət Cəhətlər</h3>
 
-Hər iki saytın mənfi və müsbət tərəfləri var. https://www.atlet.az/ saytının dizaynı o qədər yaxşı deyil lakin blog hissəsi təqdirə layiqdir, https://proteinshop.az/ saytının ecommerce hissəsi əla hazırlanıb lakin blog hissəsi yoxdur. Bu saytların müsbət cəhətlərini öz pet-proyektimizdə birləşdirmək məqsədini nəzərə alsaq, blog hissəsi də aşağıdaki nümunə kimi əlavə olunacaqdır.
-
-Blogda yerləşən postlar, adminstrasiya tərəfindən və saytın öz admin paneli vasitəsilə paylaşılacaq.
-
-
-
-
-
-https://github.com/ToghrulAG/Final-Project/assets/86961334/82f3f0df-b2d4-47ed-855e-86f5581a3d80
+![checked](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/a944cec9-b6cc-40a3-ac5f-b2080ae3de28)
 <hr>
-![chooseBrand](https://github.com/ToghrulAG/Final-Project/assets/86961334/10a35944-1ce9-4dbf-a625-bb9da559c9ba)
 
-<h1>Login and Registration System</h1>
-
-Sadəcə olaraq istifadəçini idenfikasiya etmək məqsədi ilə çox kiçik bir giriş və qeydiyyat sistemi əlavə olunacaq. Əlavə olaraq, istifadəçilər blogda paylaşılan postlar haqqında muzakirə edə bilmələri üçün və öz fikirlərini bildirmələri üçün bir comment sistemi də əlavə etmək istəyirəm.
-
-
-
-https://github.com/ToghrulAG/Final-Project/assets/86961334/df77f473-34c8-4c01-b769-7f84cb22dd3b
+<p> <h1>1.</h1>
+Belə bir özəlliyi müsbət kimi qəbul etmək olar.
+ Lenti scroll etdikdə bir videonu little pop up player olaraq kənara çəkib videonu izləyə-izləyə scroll etməyə davam edə bilərik.
+ Çox istifadə olunan bir funksiyadır və öz sosial şəbəkəmi yaratsaydım bu funksiyanı sözsüz ora əlavə edərdim.
+</p>
 
 
 
-=======
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/725a4249-4d17-4fe9-8ef6-ce2903cff2a0
 
-![chooseBrand](https://github.com/ToghrulAG/Final-Project/assets/86961334/6e3a8ee2-686e-4044-ae50-c655b540ebac)
->>>>>>> cffea716c6a949f2742dbd5927902796199954aa
+
+
+
+
+
+
+

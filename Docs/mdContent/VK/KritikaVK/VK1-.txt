@@ -1,0 +1,5 @@
+1. Facebookdaki kimi oxşar mənfi cəhət. Content üçün nəzərdə tutulan yer çox balacadır. Nəzərə alsaq ki səhifənin sol və sağ
+tərəfləri content hissəsini böyütmətə şərait yaradır.
+
+2. Scroll etdikdə sol tərəfdəki sidebarın yuxarı doğru sürüşməsi. İstifadə ehtiyacı yarandıqda mousenin kursorunu yuxarı 
+sürüşdürmək lazım gələcək. Rahat deyil!  

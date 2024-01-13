@@ -1,0 +1,2 @@
+Yenə eyni məsələdir. Ətrafı qırmızı boyanmış interfeysi yuxarıda bir icon yaradıb onun daxılinə yerləşdirə bilərdik,
+content zonasının daha da böyük olması üçün.

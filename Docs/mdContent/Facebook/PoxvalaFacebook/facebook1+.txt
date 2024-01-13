@@ -1,0 +1,3 @@
+Belə bir özəlliyi müsbət kimi qəbul etmək olar.
+ Lenti scroll etdikdə bir videonu little pop up player olaraq kənara çəkib videonu izləyə-izləyə scroll etməyə davam edə bilərik.
+ Çox istifadə olunan bir funksiyadır və öz sosial şəbəkəmi yaratsaydım bu funksiyanı sözsüz ora əlavə edərdim.

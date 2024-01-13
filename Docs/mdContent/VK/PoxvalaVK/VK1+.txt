@@ -1,0 +1,5 @@
+Sosial şəbəkənin daxilinə inteqrasiya edilmiş Music player.
+1. Çox rahat və başa düşülən interfeys.
+2. Dinləyəcəyimiz musiqilərin çoxusu mövcuddur.
+3. Premium və s tələb etmir.
+4. Sosial şəbəkə yaratsam bu funksiyanı ora 100% inteqrasiya edərəm. 

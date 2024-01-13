@@ -37,7 +37,23 @@ mənfi bir cəhət kimi qeyd edə bilmərəm.
 ![facebook3-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/40057c5a-28f8-495b-9de8-e2bddf2a0809)
 <hr>
 
-Müsbət Cəhətlər
+<h3>Müsbət Cəhətlər</h3>
+
+![checked](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/a944cec9-b6cc-40a3-ac5f-b2080ae3de28)
+<hr>
+
+<p> <h1>1.</h1>
+Belə bir özəlliyi müsbət kimi qəbul etmək olar.
+ Lenti scroll etdikdə bir videonu little pop up player olaraq kənara çəkib videonu izləyə-izləyə scroll etməyə davam edə bilərik.
+ Çox istifadə olunan bir funksiyadır və öz sosial şəbəkəmi yaratsaydım bu funksiyanı sözsüz ora əlavə edərdim.
+</p>
+
+
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/725a4249-4d17-4fe9-8ef6-ce2903cff2a0
+
+
+
 
 
 

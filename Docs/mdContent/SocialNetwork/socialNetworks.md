@@ -1,20 +1,20 @@
 <h1>SOCIAL NETWORKS</h1>   
 <h2>Facebook  <a href="facebook.com">Click</a></h2>
 
-![facebookLogo](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/08c6b4a1-da1f-477a-95f5-88c2b35a4493)
-
+![facebookLogo](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/0eeca3b0-4622-43e1-bdd8-408d82270ec0)
 
 <h3>Mənfi Cəhətləri </h3>
 
-![warning](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/69aae9b3-0a79-4cff-9a2b-2fee5147b633)
-<hr>
+![warning](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e89bbf56-f98c-4600-90fe-a8d05c5d4dc7)
+
 
 <p> <h1>1.</h1>Sağ tərəfdəki menu buttonunu açdığımızda, bəzi elementlərin dublikatını sol tərəfdəki sidebar-da görə bilirik.
 Dublikatları aradan qaldırıb, sidebar-da olan elementləri menyuya əlavə etsək və sidebar-ı ləğv etsək 
 həm dublikat məsələsi həll olunar həmdəki, content üçün daha çox yer qalar. 
 </p>
 
-![facebook1-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e93d3a8d-b478-4980-b5e7-6a65296fca09)
+![facebook1-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/1ca8d193-af1a-454d-9ccf-4ec89bb88596)
+
 <hr>
 
 <p> <h1>2.</h1>
@@ -22,7 +22,8 @@ həm dublikat məsələsi həll olunar həmdəki, content üçün daha çox yer 
 content zonasının daha da böyük olması üçün.
 </p>
 
-![facebook2-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/31857c0a-b500-49c0-8b68-1404d033a29b)
+![facebook2-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/61a13a51-2fd6-48ce-bd4f-f098769eefef)
+
 <hr>
 
 <p> <h1>3.</h1>
@@ -34,7 +35,8 @@ boş yerə serverin resurslarından istifadə edir. Çunki insanlar köhnə üsu
 mənfi bir cəhət kimi qeyd edə bilmərəm.
 </p>
 
-![facebook3-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/40057c5a-28f8-495b-9de8-e2bddf2a0809)
+![facebook3-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/0bccb960-7bf7-4b0a-8e24-f247cd3d7155)
+
 <hr>
 
 <h3>Müsbət Cəhətlər</h3>
@@ -50,7 +52,85 @@ Belə bir özəlliyi müsbət kimi qəbul etmək olar.
 
 
 
-https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/725a4249-4d17-4fe9-8ef6-ce2903cff2a0
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e023921b-0bc8-4e33-a384-38529a7906bd
+
+
+
+<hr>
+
+
+
+
+
+
+
+
+  
+<h2>VKontakte  <a href="vk.ru">Click</a></h2>
+
+![vkLogo](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e7933cbd-9b80-45d0-9482-5bf41d73e79f)
+
+
+<h3>Mənfi Cəhətləri </h3>
+
+![warning](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e89bbf56-f98c-4600-90fe-a8d05c5d4dc7)
+
+
+<p> <h1>1.</h1>Facebookdaki kimi oxşar mənfi cəhət. Content üçün nəzərdə tutulan yer çox balacadır.
+Nəzərə alsaq ki səhifənin sol və sağ
+tərəfləri content hissəsini böyütmətə şərait yaradır.
+Scroll etdikdə sol tərəfdəki sidebarın yuxarı doğru sürüşməsi.
+İstifadə ehtiyacı yarandıqda mousenin kursorunu yuxarı 
+sürüşdürmək lazım gələcək. Rahat deyil!  
+ 
+</p>
+
+
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/b0d09f10-de71-44eb-b7cb-962307f965c0
+
+
+
+<hr>
+
+<h3>Müsbət Cəhətlər</h3>
+
+![checked](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/a944cec9-b6cc-40a3-ac5f-b2080ae3de28)
+<hr>
+
+<p> <h1>1.</h1>
+Sosial şəbəkənin daxilinə inteqrasiya edilmiş Music player.
+1. Çox rahat və başa düşülən interfeys.
+2. Dinləyəcəyimiz musiqilərin çoxusu mövcuddur.
+3. Premium və s tələb etmir.
+4. Sosial şəbəkə yaratsam bu funksiyanı ora 100% inteqrasiya edərəm. 
+
+</p>
+
+
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/51672f00-e21e-4562-89ad-5d2a6d35893a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

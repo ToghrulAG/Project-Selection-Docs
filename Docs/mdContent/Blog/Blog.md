@@ -1,13 +1,14 @@
 <h1>BLOG</h1>   
-<h2>MUSCLEWIKI <a href="https://musclewiki.com/">Click</a></h2>
-
-![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/201ec7df-7203-4703-bc46-f1fc5909795c)
+<h1>MUSCLEWIKI <a href="https://musclewiki.com/">Click</a></h1>
 
 
 
-<h3>Mənfi Cəhətləri </h3>
 
-![warning](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/2036e8f5-3b95-4ad5-bf8e-f006270daff5)
+
+
+<h2>Mənfi Cəhətləri </h2>
+
+![arrowDownRed](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/7246e12d-2f12-4b55-85a4-45852f1aeb06)
 
 
 
@@ -19,9 +20,11 @@
 <hr>
 
 
-<h1>Müsbət Cəhətlər</h1>
+<h2>Müsbət Cəhətlər</h2>
 
-CHECKED LOGO
+![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/1b224bb9-9006-4b9c-baf2-f382c1c42a4a)
+
+
 
 <p> <h1>1.</h1>
  Sayta ilk girən biri üçün çox rahat və lokanik interfeys. Görmək istədiyimiz hərəkətləri çox sadə və gözə xoş gələn interfeys sayəsində əldə edə bilərik

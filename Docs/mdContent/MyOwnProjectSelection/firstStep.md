@@ -21,7 +21,8 @@
 
 <h2><span>1</span> <a href="https://www.atlet.az/">ATLET.AZ</a></h2>
 
-![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/3ea7b154-7133-4f75-b8dd-616dbd9149cf)
+![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/6f2d8f9a-f14d-42a5-8634-edb4a1b4d05e)
+
 
 <h3>1.1 </h3> <p>Saytda olan blog sistemini bəyəndim və dizayn baxımdan daha yaxşısını hazırlayıb öz proyektimə əlavə etmək istəyirəm</p>
 
@@ -41,7 +42,7 @@ Saytın adminstrasiyası bu funksiyadan istifadə edərək, rəhbərliyin tapş�
 
 <h2><span>2</span> <a href="https://proteinshop.az/">ProteinShop.az</a></h2>
 
-![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/3ea7b154-7133-4f75-b8dd-616dbd9149cf)
+![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/6f2d8f9a-f14d-42a5-8634-edb4a1b4d05e)
 
 <h3> 2.1 </h3> <p>Sözü gedən ProteinShop.az saytı Ecommerce referans proyektlər siyahısında yer alıb və orda müsbət qiymətləndirdiyim bir məqam var, hansıki add cart etdikdə baş verən animasiyadır.</p>
 
@@ -74,7 +75,7 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/04b9e19a-21b
 
 <h2><span>3</span> <a href="https://javascript.info/"></a> JavaScript Info</h2>
 
-![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/3ea7b154-7133-4f75-b8dd-616dbd9149cf)
+![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/6f2d8f9a-f14d-42a5-8634-edb4a1b4d05e)
 
 <h3> 3.1 </h3> <p>Referans proyektlərin "blog və içərik" bölməsinə əlavə etdiyim və həmişə developmentlə bağlı docslar oxuduğum bu saytın commentary sistemi çox əladır. Öz proyektimində yer alacaq və blog sisteminin daxilində yerləşəcək postlara istifadəçilərin postla bağlı müzakirələr etməyi üçün şərait yaradacaq</p>
 <h3> 3.2 </h3> <p>İstifadəçilər yazılan commentləri dislike və like edə biləcək və muzakirə üçün də reply bildirə biləcək</p>

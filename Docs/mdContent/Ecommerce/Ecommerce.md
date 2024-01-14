@@ -1,8 +1,9 @@
-<h1>BLOG</h1>   
+<h1>E-COMMERCE</h1>   
 
-![blog](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/c3b5f8dd-8edb-4dc7-844e-951a635bf507)
+![market](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/057b0ddd-e941-4cb2-bf4e-276b911ecb1e)
 
-<h1>MUSCLEWIKI <a href="https://musclewiki.com/">Click</a></h1>
+
+<h1>AMAZON <a href="https://https://www.amazon.com/">Click</a></h1>
 
 
 
@@ -16,8 +17,18 @@
 
 
 
-<p> <h1>1.</h1>Saytın o qədər müsbət cəhəti varki, mənfi cəhətləri aşkar etmək qeyri-mümkündür :)
+<p> <h1>1.</h1>
+ Bu ecommerce proyektin bir balaca restyling-e ehtiyacı var. Əsasən də saytda bəzi stil elementləri varki saytda olan başqa 
+komponentlerlə bir-bir birini stil baxımdan tamamlanmır. 
+Məsələn : Screendə göstərildiyi kimi. Naviqasiyada olan hover effekti çox sadedir və daha da kreativ bir şey fikirləşmək olardı.
+Card elementlərinin dizaynı 2024-ün trendlərinə uymur. Əsasəndə kənarlarının çox kəskin olmağı.
+
+
 </p>
+
+<hr>
+
+![Amazon1-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/5b2f5654-7780-4926-aa69-e64c4869df3a)
 
 <hr>
 
@@ -30,24 +41,26 @@
 
 
 <p> <h1>1.</h1>
- Sayta ilk girən biri üçün çox rahat və lokanik interfeys. Görmək istədiyimiz hərəkətləri çox sadə və gözə xoş gələn interfeys sayəsində əldə edə bilərik
-</p>
-<p> <h1>2.</h1>
- Kalori hesablaması, BJU-hesablanması və bunun kimi alətlərin olmağı
-</p>
-<p> <h1>3.</h1>
- İdman hərəkətlərinin növləri siyahısı. Öz çəkimiz (workout), GYM, Dumbell istifadə edərək istədiyimiz əzələ hissəsini inkişaf etdirə bilərik. Bir sözlə möhtəşəm.
-</p>
-<p> <h1>4.</h1>
- İdman hərəkətlərindən əlavə, qidalanma sistemi, bloqlar, rutinlər bölməsi.
+Məhsulları səbətə əlavə etdiyimizdə avtomatik olaraq sağ tərəfdə bar açılıq və səbətdə olan məhsullar haqqında lazımı olan informasiyaları verir. Rahat, əla və gözəxoş gəlir.
+Və əlavə manupulyasiya etmədən məhsulu silə və artıra bilirik
 </p>
 
 <hr>
 
 
-https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/c6ebe3b1-8dd4-406f-bd10-ddc8ee9d2a90
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/ca6a4c34-af26-41c0-b99b-a0790fe6f7fc
 
 
+
+<hr>
+
+<p> <h1>2.</h1>
+
+Başqa ecommerce proyektlərlə fərqləndirsək, məncə naviqasiya rahatlığı baxımından Amazon ən yaxşısıdır.
+
+
+</p>
 
 <hr>
 

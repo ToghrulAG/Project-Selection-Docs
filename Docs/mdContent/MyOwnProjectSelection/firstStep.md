@@ -1,16 +1,25 @@
 <h1>INTRO</h1> 
 
-
-Giriş olaraq öz proyektim haqqında ilkin məlumatı vermək istəyirəm. 
-Proyektdə bir neçə referans seçdiyim saytların daxilində olan funksiyaları özündə birləşdirəcək.
-Aşağıda referanslardan çıxarış etdiyim və öz əlavələrimin yer aldığı funksiyalar təqdim olunub.
+![intro](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/f94cf506-8085-403d-91ca-0e974e4dfed1)
+<hr>
 
 
-REFERENSLAR ÜZRƏ :
+  <h2>Giriş olaraq öz proyektim haqqında ilkin məlumatı vermək istəyirəm.</h2>
+<ul>
+  <li>Proyektim bir neçə referans kimi seçdiyim saytların daxilində olan funksiyaları özündə birləşdirəcək.</li>
+  <li>Aşağıda, referanslardan çıxarış etdiyim və öz əlavələrimin yer aldığı case-lər təqdim olunub.</li>
+</ul>
+<hr>
 
-MY ATLET.AZ
-//
-1. MyAtlet.az Saytında olan blog sistemini çox bəyəndim və proyektimin daxilinə bənzər bir şey əlavə edəcəyimi düşünürəm.
+
+
+
+
+<h1>REFERENSLAR ÜZRƏ :</h1>
+
+<h2><span>1</span> <a href="https://www.atlet.az/">ATLET.AZ</a></h2>
+<hr>
+
 
 myAtletblogs video
 

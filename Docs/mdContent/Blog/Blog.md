@@ -21,7 +21,6 @@
 
 <hr>
 
-<hr>
 
 
 <h2>Müsbət Cəhətlər</h2>
@@ -58,7 +57,7 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/c6ebe3b1-8dd
  
 
 
-<h1>ATLET AZ<a href="https://www.atlet.az/">Click</a></h1>
+<h1>ATLET AZ <a href="https://www.atlet.az/"> Click</a></h1>
 
 
 
@@ -77,19 +76,25 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/c6ebe3b1-8dd
 
 <hr>
 
+
+<h2>Müsbət Cəhətlər</h2
+
 <hr>
-
-
-<h2>Müsbət Cəhətlər</h2>
 
 ![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/1b224bb9-9006-4b9c-baf2-f382c1c42a4a)
 
 
 
-<p> <h1>1.</h1>
+<p> <h1>2.</h1>
  Saytda yerləşən blog bölməsi maraqlıdır, öz proyektimdə istifadə edəcəm.
 </p>
 
+
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/d46e47b6-8a86-4562-8206-519995d76bab
+
+
+
 <hr>
 
 
@@ -97,7 +102,6 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/c6ebe3b1-8dd
 
 
 
-<hr>
 
 
 

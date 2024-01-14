@@ -1,4 +1,0 @@
-Sağ tərəfdəki menu buttonunu açdığımızda, bəzi elementlərin dublikatını sol tərəfdəki sidebar-da görə bilirik.
-Dublikatları aradan qaldırıb, sidebar-da olan elementləri menyuya əlavə etsək və sidebar-ı ləğv etsək 
-həm dublikat məsələsi həll olunar həmdəki, content üçün daha çox yer qalar. 
-

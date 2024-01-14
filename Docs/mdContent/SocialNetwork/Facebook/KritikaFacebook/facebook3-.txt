@@ -1,6 +1,0 @@
-Facebookda Marketplace funksiyası var hansıki, kiçik bir elan saytının interfeysini xatırladır. 
-Girib bir iki elanı yoxlayandan sonra göre bilərik ki, bu funksiya heç aktiv olaraq istifadə olunmur və nəticədə 
-boş yerə serverin resurslarından istifadə edir. Çunki insanlar köhnə üsula öyrəşiblər 
-"satılan məhsula uyğun qrupda post paylaşmaq" və bu üsul insanlar üçün daha rahatdır deyə MP istifadə olunmur düşünürəm.
- Əgər xarici ölkələrdə bu funksiya aktiv olaraq istifadə olunursa, o zaman
-mənfi bir cəhət kimi qeyd edə bilmərəm.

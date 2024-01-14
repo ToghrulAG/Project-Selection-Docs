@@ -55,6 +55,52 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/c6ebe3b1-8dd
 
 
 
+ 
+
+
+<h1>ATLET AZ<a href="https://www.atlet.az/">Click</a></h1>
+
+
+
+
+
+
+
+<h2>Mənfi Cəhətləri </h2>
+
+![arrowDownRed](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/7246e12d-2f12-4b55-85a4-45852f1aeb06)
+
+
+
+<p> <h1>1.</h1>Saytın dizaynı məncə çox köhnədir. Restyling-ə ehtiyac var.
+</p>
+
+<hr>
+
+<hr>
+
+
+<h2>Müsbət Cəhətlər</h2>
+
+![arrowDown](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/1b224bb9-9006-4b9c-baf2-f382c1c42a4a)
+
+
+
+<p> <h1>1.</h1>
+ Saytda yerləşən blog bölməsi maraqlıdır, öz proyektimdə istifadə edəcəm.
+</p>
+
+<hr>
+
+
+
+
+
+
+<hr>
+
+
+
 
 
 

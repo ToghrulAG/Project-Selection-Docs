@@ -1,6 +1,7 @@
 <h1>E-COMMERCE</h1>   
 
-![market](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/057b0ddd-e941-4cb2-bf4e-276b911ecb1e)
+![ecommerce](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/83daec14-6bc1-4ca5-a60a-27472abe42fd)
+
 
 
 <h1>AMAZON <a href="https://https://www.amazon.com/">Click</a></h1>
@@ -70,7 +71,7 @@ Başqa ecommerce proyektlərlə fərqləndirsək, məncə naviqasiya rahatlığ�
  
 
 
-<h1>ATLET AZ <a href="https://www.atlet.az/"> Click</a></h1>
+<h1>ALIEXPRESS <a href="https://aliexpress.ru/?af=CjwKCAiAqY6tBhAtEiwAHeRopeO3B1fBK3mJNJJKqxjYHWvKCtHI-Uo8UPN_Sia5VAzPnpIUxgPlCBoCB2wQAvD_BwE&url=https%3A%2F%2Faliexpress.com&gclid=CjwKCAiAqY6tBhAtEiwAHeRopeO3B1fBK3mJNJJKqxjYHWvKCtHI-Uo8UPN_Sia5VAzPnpIUxgPlCBoCB2wQAvD_BwE&aff_fcid=7d83895a2b9f469a9ede6f6e753d47d0-1705272166487-07150-_DEK18RL&tt=CPS_NORMAL&aff_fsk=_DEK18RL&aff_platform=portals-tool&sk=_DEK18RL&aff_trace_key=7d83895a2b9f469a9ede6f6e753d47d0-1705272166487-07150-_DEK18RL&terminal_id=22fb429591e54e2cb20b913cd16fcc4f&gatewayAdapt=glo2rus"> Click</a></h1>
 
 
 
@@ -84,13 +85,16 @@ Başqa ecommerce proyektlərlə fərqləndirsək, məncə naviqasiya rahatlığ�
 
 
 
-<p> <h1>1.</h1>Saytın dizaynı məncə çox köhnədir. Restyling-ə ehtiyac var.
+<p> <h1>1.</h1>Alixpressin optimizasiyası Amazonla müqayisədə xeyli zəifdir. Komponentlər və multimediya hiss olunacaq qədər gec yüklənir.
 </p>
 
 
 
 
-https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/3f9f4b9f-c43f-488a-90c9-6083291ad177
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/b8438d44-2307-4754-9c71-6326ef7c60f0
+
+
 
 
 
@@ -109,20 +113,25 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/3f9f4b9f-c43
 
 
 
-<p> <h1>2.</h1>
- Saytda yerləşən blog bölməsi maraqlıdır, öz proyektimdə istifadə edəcəm.
+<p> <h1>1.</h1>
+ Saytda bele bir maraqlı özəllik var. Məhsul card-ni açmadan şəkillərini hover edə bilirik və click etdikdə bizi yeni 
+səhifəyə göndərmir, sağ tərəfdə sidebar açır və lazımı olan bütün informasiyanı orada göstərir.
 </p>
 
 
 
-https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/d46e47b6-8a86-4562-8206-519995d76bab
+
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/5c25d444-3fb3-4acf-882f-cacd22aee8bc
+
+
 
 
 
 <hr>
 
 
-<h1>Java Script Info <a href="https://javascript.info/"> Click</a></h1>
+<h1>PROTEIN SHOP AZ<a href="https://proteinshop.az/"> Click</a></h1>
 
 
 
@@ -136,14 +145,17 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/d46e47b6-8a8
 
 
 
-<p> <h1>1.</h1>Bu kapsamda olan bir proyektin xarici auth sisteminə sahib olması çox qəribədir. Daxili sistem yaradılsaydı daha gözəl olardı deye düşünürəm.
+<p> <h1>1.</h1>Saytda adi real ecommerce proyektlərində gördüyümüz ödəniş sistemi yoxdur.
+Belə bir case gətirim, müştərinin adına olan bank kartı
+fiziki yox, virtual bir bank kartı olar bilər. Həmin virtual kartın nfs ilə bir başa bağlantısı olmama ehtimali ola bilər və s.
+
 </p>
 
 
 
 
+![MyProtein1-](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/991360c9-0b9b-4886-ae00-7d1ee0f470db)
 
-https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e9f25544-4cbf-41cb-a558-b3b222633005
 
 
 
@@ -161,20 +173,26 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e9f25544-4cb
 
 
 <p> <h1>1.</h1>
- Commentary sistemi çox əladır userlərin like, dislike, bunların saylarına baxma, reply etmə imkanı. Öz proyektimə inteqrasiya etməyi düşünürəm.
+Səbətə add etmə animasiyasının maraqlı olduğunu düşünürəm və öz proyektimə əlavə edəcəm.
 </p>
 
 
 
 
-https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/d35439ad-040a-4259-8b2e-ab3b1c3f9ccb
 
-
-
-
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/ddec9bb0-a94a-4257-b422-4bac9a14873e
 
 
 <hr>
+
+
+<p> <h1>2.</h1>
+Hər hansı bir məhsulu wishlist-ə əlavə edə bilərik. Öz proyektimdə istifadə edərdim şəxsən.
+</p>
+
+<hr>
+
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/0033de20-f738-462b-86b8-25787b9779b7
 
 
 

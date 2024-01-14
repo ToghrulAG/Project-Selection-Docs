@@ -95,7 +95,8 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/ae89074c-da8
 
 <h1>ÖZ ƏLAVƏLƏRİM :</h1> 
 
-![personalAdd](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/8ecc0bf1-8e9f-460c-be82-30c5bf0179ee)
+![personalAdd](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/2092fbd7-3dc1-47c4-bc28-95e59ba0e785)
+
 
 <h2>AUTH Sistemi
 </h2>

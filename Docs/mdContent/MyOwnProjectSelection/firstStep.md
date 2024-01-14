@@ -1,5 +1,6 @@
-INTRO : 
-//
+<h1>INTRO</h1> 
+
+
 Giriş olaraq öz proyektim haqqında ilkin məlumatı vermək istəyirəm. 
 Proyektdə bir neçə referans seçdiyim saytların daxilində olan funksiyaları özündə birləşdirəcək.
 Aşağıda referanslardan çıxarış etdiyim və öz əlavələrimin yer aldığı funksiyalar təqdim olunub.

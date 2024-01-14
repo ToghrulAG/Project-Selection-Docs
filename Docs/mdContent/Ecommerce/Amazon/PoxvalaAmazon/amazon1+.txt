@@ -1,0 +1,2 @@
+Məhsulları səbətə əlavə etdiyimizdə avtomatik olaraq sağ tərəfdə bar açılıq və səbətdə olan məhsullar haqqında lazımı olan informasiyaları verir. Rahat, əla və gözəxoş gəlir.
+Və əlavə manupulyasiya etmədən məhsulu silə və artıra bilirik

@@ -1,0 +1,3 @@
+Saytda adi real ecommerce proyektlərində gördüyümüz ödəniş sistemi yoxdur.
+Belə bir case gətirim, müştərinin adına olan bank kartı
+fiziki yox, virtual bir bank kartı olar bilər. Həmin virtual kartın nfs ilə bir başa bağlantısı olmama ehtimali ola bilər və s.

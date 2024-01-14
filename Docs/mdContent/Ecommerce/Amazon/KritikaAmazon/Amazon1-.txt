@@ -1,0 +1,5 @@
+Bu ecommerce proyektin bir balaca restyling-e ehtiyacı var. Əsasən də saytda bəzi stil elementləri varki saytda olan başqa 
+komponentlerlə bir-bir birini stil baxımdan tamamlanmır. 
+
+Məsələn : Screendə göstərildiyi kimi. Naviqasiyada olan hover effekti çox sadedir və daha da kreativ bir şey fikirləşmək olardı.
+Card elementlərinin dizaynı 2024-ün trendlərinə uymur. Əsasəndə kənarlarının çox kəskin olmağı.

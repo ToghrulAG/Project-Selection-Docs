@@ -1,0 +1,2 @@
+Saytda bele bir maraqlı özəllik var. Məhsul card-ni açmadan şəkillərini hover edə bilirik və click etdikdə bizi yeni 
+səhifəyə göndərmir, sağ tərəfdə sidebar açır və lazımı olan bütün informasiyanı orada göstərir.

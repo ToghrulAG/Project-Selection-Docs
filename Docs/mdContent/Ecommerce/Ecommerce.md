@@ -147,7 +147,7 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/5c25d444-3fb
 
 <p> <h1>1.</h1>Saytda adi real ecommerce proyektlərində gördüyümüz ödəniş sistemi yoxdur.
 Belə bir case gətirim, müştərinin adına olan bank kartı
-fiziki yox, virtual bir bank kartı olar bilər. Həmin virtual kartın nfs ilə bir başa bağlantısı olmama ehtimali ola bilər və s.
+fiziki yox, virtual bir bank kartı olar bilər. Həmin virtual kartın nfs ilə bir başa bağlantısı olmama ehtimali ola bilər və s. Ona görə də sayta əgər məhsulların alışı üçün ödəniş sistemi əlavə etsələr daha yaxşı olar.
 
 </p>
 

@@ -30,10 +30,10 @@
 
 
 <p> <h1>1.</h1>
- Sayta ilk girən biri üçün çox rahat və lokanik interfeys. Görmək istədiyimiz hərəkətləri çox sadə və gözə xoş gələn interfeys sayəsində əldə edə bilərik
+ Sayta girən istifadəçini çox lokanik bir interfeys qarşılayır. İnsan bədəni maketi üzərindən istifadəçi hansı əzələ qruplarının hərəkətləri ilə maraqlanırsa, maket üzərindən rahat bir şəkildə "ulaşa bilər". 
 </p>
 <p> <h1>2.</h1>
- Kalori hesablaması, BJU-hesablanması və bunun kimi alətlərin olmağı
+ Kalori hesablaması, BJU-hesablanması və bunun kimi alətlərin olmağı çox böyük üstünlükdür.
 </p>
 <p> <h1>3.</h1>
  İdman hərəkətlərinin növləri siyahısı. Öz çəkimiz (workout), GYM, Dumbell istifadə edərək istədiyimiz əzələ hissəsini inkişaf etdirə bilərik. Bir sözlə möhtəşəm.
@@ -123,7 +123,7 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/d46e47b6-8a8
 
 
 
-<p> <h1>1.</h1>Bu kapsamda olan bir proyektin xarici auth sisteminə sahib olması çox qəribədir. Daxili sistem yaradılsaydı daha gözəl olardı deye düşünürəm.
+<p> <h1>1.</h1>Bu kapsamda olan bir proyektin xarici authentication sisteminə sahib olması çox qəribədir. Daxili sistem yaradılsaydı daha gözəl olardı deye düşünürəm.
 </p>
 
 

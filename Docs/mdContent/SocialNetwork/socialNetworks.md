@@ -137,8 +137,6 @@ https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/51672f00-e21
 Kanal sisteminin çox funksiyalı olması. Kanallar sistemində yerləşən naviqasiya
 </p>
 
-
-<hr>
 https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/0fe4edcb-1bd6-43a2-bab1-88b32c998543
 
 

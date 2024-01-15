@@ -112,6 +112,50 @@ Sosial şəbəkənin daxilinə inteqrasiya edilmiş Music player.
 
 https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/51672f00-e21e-4562-89ad-5d2a6d35893a
 
+<hr>
+   
+<h2>Telegram  <a href="https://web.telegram.org/a/">Click</a></h2>
+
+![telegram](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/340b55c9-a9f4-4d71-8caa-6d8349272cb3)
+
+
+<h3>Mənfi Cəhətləri </h3>
+
+![warning](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/e89bbf56-f98c-4600-90fe-a8d05c5d4dc7)
+
+
+<p> <h1>1.</h1>Scam və reklamların həddən artıq çox olması
+</p>
+<hr>
+
+<h3>Müsbət Cəhətlər</h3>
+
+![checked](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/a944cec9-b6cc-40a3-ac5f-b2080ae3de28)
+<hr>
+
+<p> <h1>1.</h1>
+Kanal sisteminin çox funksiyalı olması. Kanallar sistemində yerləşən naviqasiya
+</p>
+
+
+
+
+
+
+
+<p> <h1>2.</h1>
+Bir çox messengerlerə baxanda daha encrypted olması.
+</p>
+<p> <h1>2.</h1>
+Bot proqramlaşdırmaq üçün təqdim olunan APİ Servisi.
+</p>
+
+
+
+
+<hr>
+
+
 
 
 

@@ -138,15 +138,8 @@ Kanal sisteminin çox funksiyalı olması. Kanallar sistemində yerləşən navi
 </p>
 
 
-
-
-
-Uploading telegram.mp4…
-
-
-
-
-
+<hr>
+https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/0fe4edcb-1bd6-43a2-bab1-88b32c998543
 
 
 
@@ -157,7 +150,6 @@ Bir çox messengerlerə baxanda daha encrypted olması.
 <p> <h1>3.</h1>
 Bot proqramlaşdırmaq üçün təqdim olunan APİ Servisi.
 </p>
-<hr>
 
 ![tgss](https://github.com/ToghrulAG/Project-Selection-Docs/assets/86961334/a9a306b4-03b9-4521-a77d-662bf4203689)
 
